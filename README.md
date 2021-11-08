@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Muhammad-Ahmed-Qazi
+- 👀 I’m interested in working for small startups.
+- 🌱 I’m currently learning Angular framework and working with Firebase.
+- 📫 How to reach me? Well, you can contact me via Twitter: @QMuhammadAhmed.
