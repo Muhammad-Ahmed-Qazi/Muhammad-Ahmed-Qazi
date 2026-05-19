@@ -16,7 +16,7 @@
 
 I'm a second-year BE Computer Systems Engineering student at **NED University of Engineering & Technology**, Karachi. I work across the full stack — from writing RTL in SystemVerilog for FPGA targets all the way up to Angular frontends and NestJS backends.
 
-I'm currently in the **Xcelerium Training Programme '25**, a structured industry-level programme focused on digital design and hardware engineering.
+I'm currently working on Post Quantum Cryptography algorithms, Kyber especially: optimising them for FPGAs and making a consolidated NTT core that supports both Kyber and Dilithium. Moreover, I'm working on implementing different processor architectures on Verilog such as RISC-V FPN Instruction Set and a 0-address stack-based 16-bit processor architecture that was my Complex Engineering Project for uni.
 
 What drives me is the intersection of hardware and software — building things that work at the silicon level and understanding every layer above it.
 
