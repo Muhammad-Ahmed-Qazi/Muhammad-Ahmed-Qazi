@@ -59,18 +59,6 @@ What drives me is the intersection of hardware and software — building things 
 
 ---
 
-### 📊 GitHub stats
-
-<div align="center">
-
-![Muhammad Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Ahmed-Qazi&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ahmed-Qazi&layout=compact&hide_border=true&theme=default)
-
-</div>
-
----
-
 ### 📍 Currently
 
 - 🎓 Year 2 — BE Computer Systems Engineering @ NEDUET
