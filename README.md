@@ -18,7 +18,7 @@
 
 ### About
 
-- BE Computer Systems Engineering @ **NED University**, Karachi — graduating 2027
+- BE Computer Systems Engineering @ **NED University**, Karachi — graduating 2028
 - Writing RTL for FPGAs in SystemVerilog
 - Accelerating lattice-based crypto: **Kyber** and **Dilithium**
 - Heading toward IC design
