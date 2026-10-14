@@ -4,13 +4,10 @@
 
 **RTL · FPGA · Post-Quantum Crypto Hardware**
 
-*Designing post-quantum cryptography hardware, one clock cycle at a time*
-
 [![Website](https://img.shields.io/badge/Website-qaziiam-111111?style=flat&logo=cloudflare&logoColor=white)](https://qaziiam-web.qmuhammadahmed.workers.dev)
 [![Critical Path](https://img.shields.io/badge/Blog-Critical_Path-6E40C9?style=flat)](https://qaziiam-web.qmuhammadahmed.workers.dev/critical-path/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/qaziiam)
 [![GitHub followers](https://img.shields.io/github/followers/Muhammad-Ahmed-Qazi?style=flat&color=0A66C2)](https://github.com/Muhammad-Ahmed-Qazi)
-[![Profile views](https://komarev.com/ghpvc/?username=Muhammad-Ahmed-Qazi&style=flat&color=0A66C2)](https://github.com/Muhammad-Ahmed-Qazi)
 
 </div>
 
