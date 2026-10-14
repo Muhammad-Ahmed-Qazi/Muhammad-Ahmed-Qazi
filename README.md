@@ -1,6 +1,6 @@
 <div align="center">
 
-[![QAZIIAM](https://ascii.rest/banner/QAZIIAM.svg)](https://ascii.rest/banner/)
+[![QAZIIAM](https://ascii.rest/banner/QAZIIAM.dark.svg)](https://ascii.rest/banner/)
 
 **RTL · FPGA · Post-Quantum Crypto Hardware**
 
